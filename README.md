@@ -1,6 +1,6 @@
 
 
-<# Hi there, I'm Shravani Munde 👋
+## Hi there, I'm Shravani Munde 👋
 
 I am a **Master of Computer Applications (MCA)** student at **MES Institute of Management and Career Courses (IMCC), Pune** (Batch of 2027). I am a passionate full-stack developer and data enthusiast who loves building impactful web applications and exploring the capabilities of AI and local LLMs.
 
